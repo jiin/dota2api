@@ -1,6 +1,6 @@
 var expect   = require('expect.js'),
-	Dota2Api = require('../lib/dota2api.js'),
-	dota     = new Dota2Api('830F9D2CE8476B24E02F386E2694972C');
+		Dota2Api = require('../lib/dota2api.js'),
+		dota     = new Dota2Api('830F9D2CE8476B24E02F386E2694972C');
 
 
 describe('test internals methods', function() {
