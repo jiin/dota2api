@@ -1,0 +1,24 @@
+{
+  "name": "dota2api",
+  "version": "0.0.1",
+  "description": "wrapper for dota2 api in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -c ./test/index.js"
+  },
+  "repository": "https://github.com/jiin/dota2api",
+  "keywords": [
+    "dota2",
+    "dota",
+    "dota2 api"
+  ],
+  "dependencies": {
+    "request": "*",
+    "expect.js": "*"
+  },
+  "devDependancies": {
+    "mocha": "*"
+  },
+  "author": "jiin",
+  "license": "BSD"
+}

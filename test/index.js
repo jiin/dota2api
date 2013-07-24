@@ -1,0 +1,1 @@
+require('./dota2.js');
