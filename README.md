@@ -24,7 +24,7 @@ var Dota2Api = require('dota2api');
 var dota = new Dota2Api('your api key');
 ```
 
-For obtain api key go to <http://steamcommunity.com/dev/apikey>
+To obtain api key go to <http://steamcommunity.com/dev/apikey>
 
 ### Match Details
 
